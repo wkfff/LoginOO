@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/11/18 18:03:01.000.700,=C:\Users\thiago\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/12/02 08:41:07.000.278,=C:\Users\thiago\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/24 13:20:28.000.424,=C:\Users\thiago\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/25 21:51:59.000.196,=C:\Users\thiago\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/28 13:47:46.647,=C:\Users\thiago\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/28 13:48:26.297,=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uDm_Dados.pas</Transaction>
+    <Transaction>2013/01/28 13:48:26.492,=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uFrmLogin.pas</Transaction>
+    <Transaction>2013/01/28 13:48:26.535,=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uLoginDAO.pas</Transaction>
+    <Transaction>2013/01/28 13:48:26.577,=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uLoginModel.pas</Transaction>
+    <Transaction>2013/01/28 13:49:20.399,C:\Users\thiago\Documents\GitHub\Artigos\LoginOO\DPR\LoginOO.dproj=C:\Users\thiago\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2013/01/28 13:49:43.629,C:\Users\thiago\Documents\GitHub\Artigos\LoginOO\PAS\uFrmLogin.pas=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uFrmLogin.pas</Transaction>
+    <Transaction>2013/01/28 13:49:43.629,C:\Users\thiago\Documents\GitHub\Artigos\LoginOO\PAS\uFrmLogin.dfm=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uFrmLogin.dfm</Transaction>
+    <Transaction>2013/01/28 13:50:02.028,C:\Users\thiago\Documents\GitHub\Artigos\LoginOO\PAS\uDm_Dados.dfm=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uDm_Dados.dfm</Transaction>
+    <Transaction>2013/01/28 13:50:02.028,C:\Users\thiago\Documents\GitHub\Artigos\LoginOO\PAS\uDm_Dados.pas=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uDm_Dados.pas</Transaction>
+    <Transaction>2013/01/28 13:50:29.431,C:\Users\thiago\Documents\GitHub\Artigos\LoginOO\PAS\uLoginDAO.pas=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uLoginDAO.pas</Transaction>
+    <Transaction>2013/01/28 13:50:45.540,C:\Users\thiago\Documents\GitHub\Artigos\LoginOO\PAS\uLoginModel.pas=C:\Users\thiago\Documents\GitHub\Projeto\OpenContas\PAS\uLoginModel.pas</Transaction>
+  </Transactions>
+</BorlandProject>
